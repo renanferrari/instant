@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522044503272",
+    "firebase_url": "https://instant-a.firebaseio.com",
+    "project_id": "instant-a",
+    "storage_bucket": "instant-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522044503272:android:f140ad0077325d2a",
+        "android_client_info": {
+          "package_name": "com.renanferrari.instant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522044503272-t2airb0gmrk7743a0qqnjhirimlfin52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renanferrari.instant",
+            "certificate_hash": "2477ddd40e8120add4e8a792d78c8300bafaecb1"
+          }
+        },
+        {
+          "client_id": "522044503272-r6sk2g0kr6pmprdmoh7bkobpk7nevh9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpfac0P9sQrS69ruWmkoxSDKyo96hv3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522044503272-r6sk2g0kr6pmprdmoh7bkobpk7nevh9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
